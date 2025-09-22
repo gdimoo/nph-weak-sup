@@ -1,0 +1,9 @@
+__pycache__
+.ipynb_checkpoints
+model_saved
+saved_img
+*.sav
+temp_test
+*.pdf
+*.png
+*.zip
