@@ -7,3 +7,5 @@ temp_test
 *.pdf
 *.png
 *.zip
+*.csv
+*.json
